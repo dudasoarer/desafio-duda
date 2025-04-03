@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/185c1b68-c219-4bf3-b229-97a4c3ec24ea)# desafio-duda
+desafio-duda
 
 📌 Descrição
 Este projeto consiste em um servidor backend desenvolvido com Node.js e Express.js que atua como um proxy para a API de Dados Abertos do TCE-RJ.
