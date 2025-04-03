@@ -35,7 +35,8 @@ CORS	Middleware para permitir requisições de origens diferentes
 ```/backend-proxy
 │── package.json          # Dependências e scripts do projeto
 │── package-lock.json     # Controle de versões dos pacotes
-│── server.js             # Código principal do servidor```
+│── server.js             # Código principal do servidor
+```
 
 🚀 Instalação e Execução
 📥 Pré-requisitos
